@@ -1053,5 +1053,3 @@ conf.py provides global configuration
 → record writes everything into the trace
 ```
 
-```
-```
